@@ -117,7 +117,7 @@ public class TesteContarParametrosIguais {
 
 - Simplicidade para casos específicos.
 - Não requer a configuração de um framework adicional.
-#### esvantagens:
+#### Desvantagens:
 - Não é automatizado.
 - Difícil de manter à medida que o projeto cresce.
 - Não permite teste em massa ou asserts avançados.
